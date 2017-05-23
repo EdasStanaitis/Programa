@@ -64,6 +64,13 @@ public class Main {
                 objektas6.kunoMasesIndeksas();
                 objektas6.isvedimas();
                 break;
+            case 13:
+                TryliktaUzduotis obijektas13=new TryliktaUzduotis();
+                obijektas13.paprasymas();
+                obijektas13.nuskaityti();
+                obijektas13.skaiciavimas();
+                obijektas13.isvedimas();
+
         }
     }
 }
